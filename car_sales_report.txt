@@ -1,0 +1,12 @@
+Car Sales Summary Report
+-------------------------
+Average Price: $22400.0
+Most Expensive Car: BMW at $35000.0
+Total Best Sellers: 3
+
+Car List:
+- Toyota | $20000 | Red | Best Seller: Yes
+- Honda | $22000 | Blue | Best Seller: No
+- Ford | $18000 | Black | Best Seller: Yes
+- BMW | $35000 | White | Best Seller: No
+- Kia | $17000 | Green | Best Seller: Yes
